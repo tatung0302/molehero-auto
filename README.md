@@ -21,6 +21,7 @@
 
 ```bash
 pip install pyautogui opencv-python numpy pygetwindow keyboard Pillow
+```
 
 ## 注意事項
 
