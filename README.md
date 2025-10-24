@@ -13,7 +13,14 @@
 
 1. 將程式與素材圖片放在同一資料夾  
 2. 執行 `ivrion.py`  
-3. 程式會自動監控遊戲畫面並進行操作  
+3. 程式會自動監控遊戲畫面並進行操作
+
+## 安裝套件
+
+請先安裝以下 Python 套件：
+
+```bash
+pip install pyautogui opencv-python numpy pygetwindow keyboard Pillow
 
 ## 注意事項
 
